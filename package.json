@@ -1,0 +1,12 @@
+{
+    "name": "tic-tac-toe-online-basic",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "cd client && expo start",
+        "start-c": "cd client && expo start -c",
+        "deploy-server": "cd server && npm run deploy"
+    },
+    "keywords": [],
+    "author": ""
+}

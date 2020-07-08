@@ -1,0 +1,35 @@
+{
+    "expo": {
+        "name": "Tic Tac Toe Online",
+        "slug": "tic-tac-toe",
+        "privacy": "public",
+        "platforms": ["ios", "android"],
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "cover",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0,
+            "enabled": false
+        },
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "bundleIdentifier": "com.tictactoe.online",
+            "buildNumber": "2020062601",
+            "supportsTablet": false,
+            "isTabletOnly": false,
+            "config": {
+                "usesNonExemptEncryption": false
+            }
+        },
+        "android": {
+            "package": "com.tictactoe.online",
+            "versionCode": 2020062601,
+            "permissions": []
+        }
+    }
+}
