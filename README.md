@@ -1,3 +1,8 @@
+### Project structure
+- client (code for react native app)
+- server (code for firebase cloud functions)
+
+
 ### FIRESTORE RULES
 
 ```
