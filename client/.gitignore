@@ -14,3 +14,7 @@ web-report/
 .DS_Store
 
 lib/apiKeys.js
+
+#hide
+
+firebaseKey.json

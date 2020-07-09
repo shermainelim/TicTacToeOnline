@@ -1,8 +1,9 @@
 import firebase from 'firebase/app';
 import 'firebase/firestore';
 import { Player, GameState } from './types';
+import firebaseConfig from './firebaseKey.json';
 
-export const firebaseConfig = {
+/*export const firebaseConfig = {
     apiKey: 'AIzaSyBPq148teo5mPs1g5Hig3jRnXJMjKvaKJI',
     authDomain: 'tic-tac-toe-online-66fbe.firebaseapp.com',
     databaseURL: 'https://tic-tac-toe-online-66fbe.firebaseio.com',
@@ -11,7 +12,7 @@ export const firebaseConfig = {
     messagingSenderId: '36636769225',
     appId: '1:36636769225:web:9f5f212010639f655b4618',
     measurementId: 'G-57V3LBLPSB',
-};
+};*/
 
 firebase.initializeApp(firebaseConfig);
 
