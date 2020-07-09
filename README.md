@@ -7,9 +7,9 @@
 
  1. Markdown file 1a-d  - documentation (DocumentationTicTacToeOnlineMobileAppFinal.docx)
  2. Source code of mobile application and web / backend API. - In this private repository on Github. 
- 3. Architecture diagram describing the infrastructure components. -documentation ( firestore_final.pptx, firestore_final.pdf)
+ 3. Architecture diagram describing the infrastructure components. -documentation ( firestore_final.pptx, firestore_final.pdf) - Youtube: https://youtu.be/UVOjXCWH298
  4. Android application bundle (APK) file.  - Google Drive :  https://drive.google.com/drive/folders/1VT2PItari5BucA8ux1QjgKKwRFeF-0mx?usp=sharing 
- 5. Sample screen capture video walking through how the application works. - Youtube : https://youtu.be/UVOjXCWH298 
+ 5. Sample screen capture video walking through how the application works. - Youtube : https://youtu.be/NEfy2yENzxc
 
 
 ### FIRESTORE RULES
