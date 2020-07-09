@@ -10,6 +10,7 @@
  3. Architecture diagram describing the infrastructure components. -documentation ( firestore_final.pptx, firestore_final.pdf) - Youtube: https://youtu.be/UVOjXCWH298
  4. Android application bundle (APK) file.  - Google Drive :  https://drive.google.com/drive/folders/1VT2PItari5BucA8ux1QjgKKwRFeF-0mx?usp=sharing 
  5. Sample screen capture video walking through how the application works. - Youtube : https://youtu.be/NEfy2yENzxc
+ 6. Tic Tac Toe Online Video Walk Through Playlist- Youtube: https://www.youtube.com/playlist?list=PLKgIpFsVwR5LNHxMHDZx73OqxpuF5MLME 
 
 
 ### FIRESTORE RULES
