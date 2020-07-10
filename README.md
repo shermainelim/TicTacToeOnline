@@ -1,7 +1,7 @@
 ### Project structure on Git
 - client (code for react native app)
 - server (code for firebase cloud functions)
--documentation (contains DocumentationTicTacToeOnlineMobileAppFinal.docx, firestore_final.pptx, firestore_final.pdf
+-documentation (contains DocumentationTicTacToeOnlineMobileAppFinal.pdf, firestore_final.pptx, firestore_final.pdf
 
 ### Development
 •	Developed with React Native and Expo.io to build Android APK
@@ -10,7 +10,7 @@
 
 ### Submission
 
- 1. Markdown file 1a-d  - documentation (DocumentationTicTacToeOnlineMobileAppFinal.docx)
+ 1. Markdown file 1a-d  - documentation (DocumentationTicTacToeOnlineMobileAppFinal.pdf)
  2. Source code of mobile application and web / backend API. - In this private repository on Github. 
  3. Architecture diagram describing the infrastructure components. -documentation ( firestore_final.pptx, firestore_final.pdf) - Youtube: https://youtu.be/UVOjXCWH298
  4. Android application bundle (APK) file.  - Google Drive :  https://drive.google.com/drive/folders/1VT2PItari5BucA8ux1QjgKKwRFeF-0mx?usp=sharing 
