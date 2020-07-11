@@ -4,9 +4,9 @@
 - documentation (contains DocumentationTicTacToeOnlineMobileAppFinal.pdf, firestore_final.pptx, firestore_final.pdf
 
 ### Development
-•	Developed with React Native and Expo.io to build Android APK
-•	Written with TypeScript.
-•	Configured with NoSQL database
+-	Developed with React Native and Expo.io to build Android APK
+-	Written with TypeScript.
+-	Configured with NoSQL database
 
 ### Submission
 
